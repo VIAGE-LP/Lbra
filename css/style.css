@@ -19,48 +19,72 @@ html,body {
     display: block;
     margin: 0 auto;
 }
-
-.PC .offerbox{
+.PC .allset_bg{
+    background-color: #FFDBDD;
+}
+.PC .all_set{
+    margin: 0 auto;
     position: relative;
+    width: 1024px;
+    height: 4203px;
+    background-position: center;
 }
-
-.PC .offerbox .offerbtn{
+.PC .set4_btn{
+    width:884px;
     position: absolute;
-    width: 20%;
-    display: block;
-    bottom: 10%;
-    right: 40%;
+    right: 7.5%;
+    top: 25%;
 }
-
-.SP .offerbox_m{
-    position: relative;
+.PC .set4_btn:hover{
+    opacity: 0.8;
 }
-
-.SP .offerbox_m .offerbtn_m_1{
+.PC .set5_btn{
+    width:884px;
     position: absolute;
-    width: 63%;
-    display: block;
-    right: 18%;
-    top: 46.5%;
+    right: 7.5%;
+    top: 52%;
 }
-
-.SP .offerbox_m .offerbtn_m_2{
+.PC .set5_btn:hover{
+    opacity: 0.8;
+}
+.PC .set3_btn{
+    width:884px;
     position: absolute;
-    width: 63%;
-    display: block;
-    right: 18%;
-    bottom: 2.5%;
+    right: 7.5%;
+    top: 65.5%;
 }
-
-.offerbtn:hover{
-    opacity: 0.8; 
+.PC .set3_btn:hover{
+    opacity: 0.8;
 }
-
+.PC .set2_btn{
+    width:884px;
+    position: absolute;
+    right: 7.5%;
+    top: 79.5%;
+}
+.PC .set2_btn:hover{
+    opacity: 0.8;
+}
+.PC .set1_btn{
+    width:451px;
+    position: absolute;
+    right: 5.5%;
+    top: 86.8%;
+}
+.PC .set1_btn:hover{
+    opacity: 0.8;
+}
+.PC .set0_btn{
+    width:599px;
+    position: absolute;
+    right: 1.5%;
+    top: 92.8%;
+}
+.PC .set0_btn:hover{
+    opacity: 0.8;
+}
 @media screen and (max-width: 768px){
-    .SP .offerbtn{
-        margin: 0% auto 5% auto;
-        width: 58%;
-    }
+    
 }
 
 .sns_btn {
