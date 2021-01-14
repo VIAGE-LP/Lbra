@@ -26,14 +26,14 @@ html,body {
     margin: 0 auto;
     position: relative;
     width: 1024px;
-    height: 4203px;
+    height: 3803px;
     background-position: center;
 }
 .PC .set4_btn{
     width:884px;
     position: absolute;
     right: 7.5%;
-    top: 24.5%;
+    top: 27.5%;
 }
 .PC .set4_btn:hover{
     opacity: 0.8;
@@ -42,7 +42,7 @@ html,body {
     width:884px;
     position: absolute;
     right: 7.5%;
-    top: 51.5%;
+    top: 57%;
 }
 .PC .set5_btn:hover{
     opacity: 0.8;
@@ -51,7 +51,7 @@ html,body {
     width:884px;
     position: absolute;
     right: 7.5%;
-    top: 65.5%;
+    top: 72.5%;
 }
 .PC .set3_btn:hover{
     opacity: 0.8;
@@ -60,7 +60,7 @@ html,body {
     width:884px;
     position: absolute;
     right: 7.5%;
-    top: 79.5%;
+    top: 87.5%;
 }
 .PC .set2_btn:hover{
     opacity: 0.8;
@@ -69,7 +69,7 @@ html,body {
     width:451px;
     position: absolute;
     right: 5.5%;
-    top: 86.8%;
+    top: 95.8%;
 }
 .PC .set1_btn:hover{
     opacity: 0.8;
