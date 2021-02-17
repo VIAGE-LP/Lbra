@@ -23,7 +23,7 @@
     margin: 0 auto;
     position: relative;
     width: 1024px;
-    height: 3803px;
+    height: 3359px;
     background-position: center;
 }
 
@@ -31,7 +31,7 @@
     width: 884px;
     position: absolute;
     right: 7.5%;
-    top: 27.5%;
+    top: 23%;
 }
 
 .PC .set4_btn:hover {
@@ -42,7 +42,7 @@
     width: 884px;
     position: absolute;
     right: 7.5%;
-    top: 57%;
+    top: 49.5%;
 }
 
 .PC .set5_btn:hover {
@@ -53,7 +53,7 @@
     width: 884px;
     position: absolute;
     right: 7.5%;
-    top: 72.5%;
+    top: 67.5%;
 }
 
 .PC .set3_btn:hover {
@@ -64,7 +64,7 @@
     width: 884px;
     position: absolute;
     right: 7.5%;
-    top: 87.5%;
+    top: 85%;
 }
 
 .PC .set2_btn:hover {
@@ -75,7 +75,7 @@
     width: 451px;
     position: absolute;
     right: 5.5%;
-    top: 95.8%;
+    top: 94.3%;
 }
 
 .PC .set1_btn:hover {
