@@ -1,4 +1,9 @@
 $(document).ready(function () {
+    // 偵測高度測試用
+    // $(window).scroll(function () {
+    //     console.log($(window).scrollTop())
+    // });
+    
     // 立即購買btn動態
     $('.allset,a[href="#buy"]').click(function (e) { 
         e.preventDefault();
